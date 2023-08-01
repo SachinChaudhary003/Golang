@@ -28,7 +28,7 @@ func main() {
 	fmt.Println(integ)
 
 	fmt.Println(Constant)
-	fmt.Println("input")
+	fmt.Println(" provide input")
 	reader := bufio.NewReader(os.Stdin)
 
 	input, _ := reader.ReadString('\n')
